@@ -33,6 +33,6 @@ of cultivation activities
 ## Specific objectives
 - to monitor and collect real-time climate data and daily farm activities in greenhouse during crop growth of tomato and strawberry.
 - to analyse crop development stages and crop yield estimation.
-- to develop a model to predict crop growth stages and crop yield from real-time WWS.
+- to develop a model to predict crop growth stages and crop yield from real-time Wireless Weather Sensors.
 
  
