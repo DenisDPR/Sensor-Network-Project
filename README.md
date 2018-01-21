@@ -4,7 +4,7 @@
  ## Introduction
 Population of Japanese agriculture workers is decreasing and aging is progressing at the same time.
 To embark on the current decline of agriculture labor force in Japan, there is need for high cutting-edge
-technological ICT to realize [smart agriculture](http://www.maff.go.jp/j/kanbo/kihyo03/gityo/g_smart_nougyo/index.html). However, few small scale farmers are able or willing to
+technological ICT to realize [smart agriculture](http://www.maff.go.jp/j/kanbo/kihyo03/gityo/g_smart_nougyo/index.html)([MAFF](http://www.maff.go.jp/j/kanbo/kihyo03/gityo/g_smart_nougyo/pdf/cmatome.pdf)) However, few small scale farmers are able or willing to
 risk significant capital on sensing technologies.
 
 In this study, we have developed a simplified smart agriculture system with real-time information
