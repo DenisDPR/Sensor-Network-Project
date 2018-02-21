@@ -13,7 +13,7 @@ from calendar import timegm
 
 # Connection to MySQL Database to get the data
 def ConnDB:
-	conn = pymysql.connect(host = '172.16.30.86', port= 3306, user ='root', passwd = 'q1w2e3r4', db = 'test_DB')
+	conn = pymysql.connect(host = 'xxxxxx', port= xxxx, user ='xxxx', passwd = 'xxxxxx', db = 'xxxxxx')
 
 	cursor1 = conn.cursor()
 	cursor2 = conn.cursor()
